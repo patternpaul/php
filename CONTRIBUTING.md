@@ -7,7 +7,7 @@ community, please read
 on the Supermarket website for more information.
 
 ## Quick-contribute
-
+#SOMECHANGEHEREB LAH
 * Create an account on the [Supermarket](http://supermarket.chef.io)
 * Sign our contributor agreement (CLA)[online](https://supermarket.chef.io/ccla-signatures/new)
 * Visit the Github page for the project.
